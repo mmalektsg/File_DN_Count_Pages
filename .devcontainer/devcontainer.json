@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Codespace for Count_Pages!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
